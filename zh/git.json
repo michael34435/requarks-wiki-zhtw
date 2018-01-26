@@ -1,0 +1,6 @@
+{
+  "added": "已加入 {{path}}",
+  "deleted": "刪除/重新命名 {{path}}",
+  "updated": "已更新 {{path}}",
+  "uploaded": "已上傳 {{path}}"
+}

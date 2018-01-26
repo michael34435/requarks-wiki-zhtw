@@ -1,0 +1,82 @@
+{
+  "profile": {
+    "displayname": "顯示的名字",
+    "displaynameexample": "John Smith",
+    "email": "Email",
+    "lastprofileupdate": "配置文件的最近更新",
+    "membersince": "會員開始於",
+    "password": "密碼",
+    "passwordverify": "驗證密碼",
+    "provider": "供應商",
+    "savechanges": "儲存",
+    "subtitle": "個人資料與驗證訊息",
+    "tfa": "雙重驗證",
+    "tfadisable": "禁用雙重驗證",
+    "tfadisabled": "禁用",
+    "tfaenable": "開啟雙重驗證",
+    "tfaenabled": "開啟"
+  },
+  "stats": {
+    "subtitle": "通用全站統計",
+    "entries": "頁面",
+    "uploads": "上傳",
+    "users": "使用者"
+  },
+  "settings": {
+    "subtitle": "管理"
+  },
+  "system": {
+    "subtitle": "本 wiki 的訊息與工具",
+    "systemversion": "系統版本",
+    "currentversion": "當前版本",
+    "latestversion": "最新版本",
+    "upgrade": "升級",
+    "reinstall": "重新安裝",
+    "versioncheckfailed": "無法查詢最新版本。稍後再試。",
+    "administrativetools": "管理工具",
+    "flushcache": "清空暫存和重建索引",
+    "flushcachetext": "如果內容或搜索結果過期或者沒有包括最新的內容，可清空暫存來解決。",
+    "flushcachebtn": "清空與重建",
+    "resetaccounts": "重置系統帳號爲預設值",
+    "resetaccountstext": "該系統帳號（如 Guest 帳號）將被重置爲默認設置。",
+    "resetaccountsbtn": "重置系統帳號",
+    "flushsessions": "清除所有活動使用者的登入狀態",
+    "flushsessionstext": "所有使用者將被登出並被要求重新登入。您當前的登入狀態也會受到影響！",
+    "flushsessionsbtn": "清空登入狀態",
+    "hostinfo": "主機訊息",
+    "os": "操作系統",
+    "nodeversion": "Node.js版本",
+    "hostname": "主機名",
+    "cores": "CPU核心",
+    "totalmem": "總記憶體",
+    "cwd": "工作目錄"
+  },
+  "theme": {
+    "subtitle": "改變 wiki 的外觀和感覺",
+    "primarycolor": "原色",
+    "primarycolordesc": "用於導航欄，標題，連結等",
+    "altcolor": "替代顔色",
+    "altcolordesc": "用於邊欄（暗色）",
+    "footercolor": "頁腳顔色",
+    "footercolordesc": "用於頁腳（淺色）",
+    "codeblock": {
+      "title": "代碼塊",
+      "dark": "使用黑色主題",
+      "colorize": "對代碼塗色"
+    },
+    "savechanges": "儲存",
+    "reset": "恢複爲預設值"
+  },
+  "users": {
+    "createauthorize": "建立/授權使用者",
+    "subtitle": "使用者及權限管理",
+    "name": "名字",
+    "email": "Email 地址",
+    "provider": "供應商",
+    "createdon": "建立於",
+    "updatedon": "更新於",
+    "returntousers": "返回使用者",
+    "edituser": "編輯使用者",
+    "uniqueid": "唯一 ID"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "wiki": "維基",
+  "header": {
+    "overview": "總覽",
+    "createdoc": "建立"
+  },
+  "footer": {
+    "poweredby": "Powered by",
+    "home": "首頁",
+    "top": "滾到頂部"
+  },
+  "sidebar": {
+    "nav": "導航",
+    "navigation": "導航",
+    "pagecontents": "頁面內容",
+    "pastversions": "曆史版本"
+  },
+  "nav": {
+    "account": "帳戶",
+    "allpages": "所有頁面",
+    "create": "建立",
+    "discard": "放棄",
+    "edit": "編輯",
+    "history": "曆史",
+    "login": "登入",
+    "logout": "登出",
+    "move": "移動",
+    "myprofile": "我的訊息",
+    "normalview": "正常視圖",
+    "root": "首頁",
+    "savechanges": "保存",
+    "savedocument": "保存文件",
+    "settings": "設置",
+    "source": "源文件",
+    "stats": "統計",
+    "sysinfo": "系統訊息",
+    "syssettings": "系統設置",
+    "theme": "顔色方案",
+    "users": "使用者",
+    "viewlatest": "查看最新"
+  },
+  "welcome": {
+    "title": "歡迎訪問您的維基！",
+    "subtitle": "讓我們開始並建立首頁。",
+    "createhome": "建立首頁"
+  },
+  "loading": {
+    "source": "資源加載中...",
+    "editor": "編輯器加載中..."
+  }
+}
