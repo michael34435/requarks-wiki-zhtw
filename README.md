@@ -5,5 +5,5 @@ __IMPORTANT: This is unofficial language package, you have to modify your core a
 
 ## How to use
 ```bash
-cp -pr ./zh /path/to/wiki/server/locals/zh
+cp -pr ./zh /path/to/wiki/server/locals
 ```
